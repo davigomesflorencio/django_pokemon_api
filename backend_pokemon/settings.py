@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'pokemon_api',
     'rest_framework',
+    'drf_yasg',
     'oauth2_provider',
 ]
 
