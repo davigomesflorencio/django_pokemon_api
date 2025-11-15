@@ -7,7 +7,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="API Pokemon Davi Gomes Florencio",
         default_version='v1',
-        description="API description",
+        description="Este projeto fornece uma API em Django para consultar dados de Pokémons usando a PokeAPI (https://pokeapi.co/) e armazenar entradas locais em um banco SQLite. Também inclui cálculo de \"score\" para cada Pokémon com base nos seus status.",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="contact@yourapi.local"),
         license=openapi.License(name="BSD License"),
